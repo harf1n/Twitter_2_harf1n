@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    /*border: 0;*/
+}
+
+.register{
+    border: 3px solid black;
+    background: #000;
+}
